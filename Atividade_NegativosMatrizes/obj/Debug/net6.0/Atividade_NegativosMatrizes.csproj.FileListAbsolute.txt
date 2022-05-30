@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\bin\Debug\net6.0\Atividade_NegativosMatrizes.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\bin\Debug\net6.0\Atividade_NegativosMatrizes.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\bin\Debug\net6.0\Atividade_NegativosMatrizes.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\bin\Debug\net6.0\Atividade_NegativosMatrizes.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\bin\Debug\net6.0\Atividade_NegativosMatrizes.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\obj\Debug\net6.0\Atividade_NegativosMatrizes.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\obj\Debug\net6.0\Atividade_NegativosMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\obj\Debug\net6.0\Atividade_NegativosMatrizes.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\obj\Debug\net6.0\Atividade_NegativosMatrizes.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\obj\Debug\net6.0\Atividade_NegativosMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\obj\Debug\net6.0\Atividade_NegativosMatrizes.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\obj\Debug\net6.0\refint\Atividade_NegativosMatrizes.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\obj\Debug\net6.0\Atividade_NegativosMatrizes.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\obj\Debug\net6.0\Atividade_NegativosMatrizes.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\Logica\C#\MARATONA C#\Atividade_NegativosMatrizes\obj\Debug\net6.0\ref\Atividade_NegativosMatrizes.dll
